@@ -26,5 +26,7 @@ I am a Credit Risk model developer from Ireland
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-
+- [Advanced SQL operations](https://towardsdatascience.com/advanced-sql-operations-8856084a95a8?source=rss-b8007a8a59af------2)
+- [Weathering the SQL interpreter](https://medium.com/codex/weathering-the-sql-interpreter-13ebaa175955?source=rss-b8007a8a59af------2)
+- [Learning with HTML tags](https://jamesmcneill06.medium.com/learning-with-html-tags-c02e105fdbfb?source=rss-b8007a8a59af------2)
 <!-- BLOG-POST-LIST:END -->
