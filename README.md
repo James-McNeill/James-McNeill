@@ -1,7 +1,7 @@
 ### Hello World 👋
 I am a Credit Risk model developer from Ireland
-- 🔭 Working on improving my skills in data science / engineering and the model development lifecycle
-- 🌱 Learning design patterns in depth
+- 🔭 Working on improving my skills within data science and data engineering
+- 🌱 Learning design patterns in depth within ML and DL spaces
 <br>
 
 ## Connect with me
