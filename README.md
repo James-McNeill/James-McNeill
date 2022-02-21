@@ -26,9 +26,9 @@ I am a Credit Risk model developer from Ireland
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Declaring Variables within SQL](https://towardsdatascience.com/declaring-variables-within-sql-fe6a479a7f9c?source=rss-b8007a8a59af------2)
 - [Strings in SQL, Part 2](https://towardsdatascience.com/strings-in-sql-part-2-21a467374b84?source=rss-b8007a8a59af------2)
 - [Strings in SQL part 1](https://towardsdatascience.com/strings-in-sql-part-1-122185dd0099?source=rss-b8007a8a59af------2)
 - [Developing SQL tables](https://towardsdatascience.com/developing-sql-tables-3f9b96bc21e1?source=rss-b8007a8a59af------2)
 - [Microsofts underwater data centre](https://medium.com/codex/microsofts-underwater-data-centre-89bde306b86a?source=rss-b8007a8a59af------2)
-- [Getting started with NLP in Python](https://towardsdatascience.com/getting-started-with-nlp-in-python-6a14d0bf4cfe?source=rss-b8007a8a59af------2)
 <!-- BLOG-POST-LIST:END -->
