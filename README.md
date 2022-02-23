@@ -26,7 +26,7 @@ I am a Credit Risk model developer from Ireland
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Deep dive into SQL window functions](https://jamesmcneill06.medium.com/deep-dive-into-sql-window-functions-bdcb29b05853?source=rss-b8007a8a59af------2)
+- [Deep dive into SQL window functions](https://towardsdatascience.com/deep-dive-into-sql-window-functions-bdcb29b05853?source=rss-b8007a8a59af------2)
 - [Declaring Variables within SQL](https://towardsdatascience.com/declaring-variables-within-sql-fe6a479a7f9c?source=rss-b8007a8a59af------2)
 - [Strings in SQL, Part 2](https://towardsdatascience.com/strings-in-sql-part-2-21a467374b84?source=rss-b8007a8a59af------2)
 - [Strings in SQL part 1](https://towardsdatascience.com/strings-in-sql-part-1-122185dd0099?source=rss-b8007a8a59af------2)
